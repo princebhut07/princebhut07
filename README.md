@@ -38,7 +38,7 @@ const prince = {
 - 🔭 Currently working on exciting full-stack projects
 - 🌱 Always learning new technologies and best practices
 - 💬 Ask me about **React, Node.js, MongoDB** or anything web-related
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/prince-bhut) | [Portfolio](https://prince-bhut.web.app)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/prince-bhut-a1794635b) | [Portfolio](https://prince-bhut.web.app)
 - ⚡ Fun fact: Coffee + Code = Magic ☕
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
