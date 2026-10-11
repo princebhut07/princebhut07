@@ -9,13 +9,13 @@
 </picture>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF">
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&duration=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+prince's+Repo+👋;Full+Stack+Developer;Turning+ideas+into+reality;Clean+Code+%7C+Creative+Minds;Let's+build+something+great+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&duration=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+prince's+Repo+👋;Full+Stack+Engineer;Turning+ideas+into+reality;Clean+Code+%7C+Creative+Minds;Let's+build+something+great+🚀)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF">
 
 </div>
 
@@ -25,7 +25,7 @@
 ```javascript
 const prince = {
   name:       "Prince Bhut",
-  role:       "Full Stack Developer",
+  role:       "Full Stack Engineer",
   location:   "India 🇮🇳",
   portfolio:  "https://prince-bhut.web.app",
   passion:    "Building products that make a difference",
@@ -37,11 +37,11 @@ const prince = {
 
 - 🔭 Currently working on exciting full-stack projects
 - 🌱 Always learning new technologies and best practices
-- 💬 Ask me about **React, Node.js, MongoDB** or anything web-related
+- 💬 Ask me about **React, Node.js, TypeScript, MongoDB, PostgreSQL** or anything web-related
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/prince-bhut-a1794635b) | [Portfolio](https://prince-bhut.web.app)
 - ⚡ Fun fact: Coffee + Code = Magic ☕
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF">
 
 <div align="center"><h3><b>🛠️ Tech Stack</b></h3></div>
 
@@ -51,10 +51,12 @@ const prince = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />&nbsp;
@@ -64,7 +66,13 @@ const prince = {
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Knex.js-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <p align="center">
@@ -75,7 +83,7 @@ const prince = {
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF">
 
 <div align="center">
 
@@ -94,7 +102,7 @@ const prince = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF">
 
 <div align="center">
 <h3><b>💡 A quote to live by</b></h3>
@@ -111,7 +119,7 @@ const prince = {
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF">
 
 <br>
 <br>
